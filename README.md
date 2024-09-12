@@ -1,4 +1,4 @@
-I am **Seng Cyn Mai**, 2nd year student studying Computer Science in [Seoultech](https://en.seoultech.ac.kr).
+I am **Seng Cyn Mai**:four_leaf_clover:, 2nd year student studying Computer Science in [Seoultech](https://en.seoultech.ac.kr).
 
 Heres are the computer languages that I have learnt in the past two semsters,
 * :computer: **C++**
